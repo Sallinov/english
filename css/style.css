@@ -25,6 +25,9 @@ ul li{
 .center{
   text-align: center;
 }
+#disqus_thread{
+  margin: 5%;
+}
 .right{
   text-align: right;
 }
